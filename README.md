@@ -13,5 +13,5 @@ console.log(Sha256.hash('hash this string'));
 ### Sha-512
 ``` javascript
 console.log(Sha512.hash('hash this string'));
-// c9779fc579ebd199744f100467676ba65dd9a7aaf3ae532183a888edf37d6d18520a9aecf3a7ae047212e2ec0d8b76ac096fd23f0489a52a5cc9cd35af7a0e53
+// c9779fc579ebd199744f1004..........a5cc9cd35af7a0e53
 ```
