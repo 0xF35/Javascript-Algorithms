@@ -1,5 +1,3 @@
-# 🔐 Collection Of Javascript Algorithms: 
-
 #### This repository provides implementations of cryptographic hashing algorithms: **SHA-1**, **SHA-256**, and **SHA-512**. 
 
 #### Hashing is widely used in security-related applications, such as data integrity, password hashing, and digital signatures.
