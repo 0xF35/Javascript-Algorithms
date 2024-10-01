@@ -69,8 +69,4 @@ or
 
 js-sha3
 
-### ❗ Disclaimer
 
-### ⚠️ SHA-1 is considered broken and unsafe for most cryptographic applications. It has been included in this repository for educational and legacy purposes only.
-
-For secure applications, use SHA-256 or SHA-512 instead.
