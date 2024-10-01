@@ -62,7 +62,7 @@ The SHA-512 algorithm, also part of the SHA-2 family, generates a 512-bit hash v
     For secure, modern cryptographic solutions, consider using well-maintained libraries like:
 
     
-crypto-js
+crypto-js ||
 js-sha3
 
 ### ❗ Disclaimer
