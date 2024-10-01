@@ -1,4 +1,4 @@
-# 🔐 Collection Of Javascript Algorithms: SHA-1, SHA-256, SHA-512
+# 🔐 Collection Of Javascript Algorithms: 
 
 ### This repository provides implementations of cryptographic hashing algorithms: **SHA-1**, **SHA-256**, and **SHA-512**. 
 
