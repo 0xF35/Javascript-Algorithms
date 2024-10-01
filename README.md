@@ -56,11 +56,10 @@ The SHA-512 algorithm, also part of the SHA-2 family, generates a 512-bit hash v
 
 
 
-
-Feel free to submit any issues or questions as well!
 📢 Notes
 
-    The implementations provided here are for educational purposes and may not be optimized for all production-level security applications.
+    The implementations provided here are for educational purposes and may not be optimized for 
+    all production-level security applications.
     For secure, modern cryptographic solutions, consider using well-maintained libraries like:
 
     
