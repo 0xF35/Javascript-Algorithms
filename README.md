@@ -21,7 +21,7 @@
 
 ---
 
-## 📖 Usage Examples
+## 📖 Usage 
 
 ### 🔐 SHA-1
 
