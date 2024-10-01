@@ -48,9 +48,6 @@ The SHA-512 algorithm, also part of the SHA-2 family, generates a 512-bit hash v
 
 
 
-
-## 📌 When to Use Each Algorithm
-
 | Algorithm  | Use Case                               | Recommendation          |
 |------------|----------------------------------------|-------------------------|
 | **SHA-1**  | Legacy systems, backward compatibility | ⚠️ Avoid if possible     |
