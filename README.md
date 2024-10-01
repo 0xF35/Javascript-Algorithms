@@ -1,8 +1,8 @@
 # 🔐 Collection Of Javascript Algorithms: SHA-1, SHA-256, SHA-512
 
-## This repository provides implementations of cryptographic hashing algorithms: **SHA-1**, **SHA-256**, and **SHA-512**. 
+### This repository provides implementations of cryptographic hashing algorithms: **SHA-1**, **SHA-256**, and **SHA-512**. 
 
-## Hashing is widely used in security-related applications, such as data integrity, password hashing, and digital signatures.
+### Hashing is widely used in security-related applications, such as data integrity, password hashing, and digital signatures.
 
 ### Supported Algorithms:
 - **SHA-1** (⚠️ Insecure, included for legacy support)
