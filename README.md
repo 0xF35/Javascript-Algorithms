@@ -19,8 +19,6 @@
 
 ---
 
-## 📖 Usage 
-
 ### 🔐 SHA-1
 
 The **SHA-1** algorithm produces a 160-bit hash value (20-byte). _Although **SHA-1** is no longer considered secure for cryptographic purposes_, it is still used in some legacy systems.
